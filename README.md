@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamJSS&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-### Linguagens e Ferramentas
+### `Linguagens e Ferramentas`
 
 <div style="display: inline_block">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
@@ -24,8 +24,10 @@
   -->
 </div>
 
-### Contato
+### `Contato`
 
 <div> 
   <a href="https://www.linkedin.com/in/william-sena-1b653a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/WilliamJSS/WilliamJSS/blob/output/github-contribution-grid-snake.svg)
