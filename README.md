@@ -28,7 +28,9 @@
 ### `Contato`
 
 <div> 
-  <a href="https://www.linkedin.com/in/william-sena-1b653a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/william-sena-1b653a220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/william.jss/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.duolingo.com/profile/william.jss" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/WilliamJSS/WilliamJSS/blob/output/github-contribution-grid-snake.svg)
